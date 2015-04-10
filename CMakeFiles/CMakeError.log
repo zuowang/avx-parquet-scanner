@@ -1,0 +1,20 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: -g;-ggdb;-march=core-avx2
+Id flags: 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:1:0: error: bad value (core-avx2) for -march= switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: -g;-ggdb;-march=core-avx2
+Id flags: -c
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:1:0: error: bad value (core-avx2) for -march= switch
+
+

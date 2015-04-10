@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../build/debug/exprs/libExprs.a  CMakeFiles/Exprs.dir/compound-predicates.cc.o CMakeFiles/Exprs.dir/expr.cc.o CMakeFiles/Exprs.dir/in-predicate.cc.o CMakeFiles/Exprs.dir/literal.cc.o CMakeFiles/Exprs.dir/operators.cc.o CMakeFiles/Exprs.dir/slot-ref.cc.o
+/usr/bin/ranlib ../../build/debug/exprs/libExprs.a

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/impala/avx-parquet-scanner/src/exprs/predicate-test.cc
+exprs/predicate.h
+/home/impala/avx-parquet-scanner/src/exprs/exprs/predicate.h
+iostream
+-
+vector
+-
+
+src/encoding/fixlen-encoding.h
+immintrin.h
+-
+stdint.h
+-
+
+src/exprs/expr.h
+string
+-
+vector
+-
+sstream
+-
+immintrin.h
+-
+
+src/exprs/predicate.h
+vector
+-
+exprs/expr.h
+src/exprs/exprs/expr.h
+encoding/fixlen-encoding.h
+src/exprs/encoding/fixlen-encoding.h
+

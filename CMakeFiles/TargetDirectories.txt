@@ -1,0 +1,3 @@
+/home/impala/avx-parquet-scanner/src/exprs/CMakeFiles/Exprs.dir
+/home/impala/avx-parquet-scanner/src/encoding/CMakeFiles/fixlen-test.dir
+/home/impala/avx-parquet-scanner/src/exprs/CMakeFiles/predicate-test.dir
